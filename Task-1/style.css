@@ -1,0 +1,31 @@
+.number {
+    text-align: center;
+    cursor: pointer;
+    width: 50px;
+    margin: auto;
+    margin: 12px;
+    padding: 10px;
+    border: 1px solid #000;
+    display: inline-block;
+}
+#div {
+    border: solid 1px black;
+    height: 200px;
+    width: 700px;
+    margin-top: 20px;
+    background-color: silver;
+}
+#weekday-label {
+  margin-left: 10px;
+}
+#weekday-display {
+    margin: auto;
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+#weekday {
+    padding: 10px;
+    border: 1px solid #000;
+    width: 200px;
+}
